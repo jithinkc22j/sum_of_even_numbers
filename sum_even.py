@@ -1,4 +1,4 @@
-#Program to find the sum of n even numbers using user defined function
+#Program to find the sum of  even numbers upto n using user defined function
 def su(n):
     if n<=2:
         return(n)
